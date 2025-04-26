@@ -1,2 +1,0 @@
-Please note that to make this functional, you have to change the links, but not the file paths. file paths look like this:    drive/folder/subfolder/file/filename
-All links will have "https://www." in front of them
