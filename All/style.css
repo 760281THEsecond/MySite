@@ -1,0 +1,61 @@
+<style>
+.button {
+background-color: Chartreuse;
+border: 2px solid #8000ff;
+color: black;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+cursor: pointer;}
+a:link
+{text-decoration: none;
+color:black}
+a:visited
+{text-decoration: none;
+color:black}
+button:hover
+{text-decoration: underline wavy #8000ff 2px;
+color:#8000ff}
+a:hover
+{text-decoration: underline wavy #8000ff 2px;
+color:#8000ff}
+.text:hover
+{color:#8000ff}
+.vert 
+{writing-mode: vertical-rl; }
+.vert:hover
+{color:#8000ff}
+.button {
+  background-color: Chartreuse;
+  border: 2px solid black;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;}
+a:link
+{text-decoration: none;
+color:black}
+a:visited
+{text-decoration: none;
+color:black}
+button:hover
+{text-decoration: underline wavy #8000ff 2px;
+color:#8000ff}
+a:hover
+{text-decoration: underline wavy #8000ff 2px;
+color:#8000ff}
+.text:hover
+{color:#8000ff}
+.text:hover
+{color:#8000ff}
+a:hover
+{text-decoration: underline wavy #8000ff 2px;
+color:#8000ff}
+</style>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="icon" type="image/x-icon" href="Images/Nathan_Wong_Branding_2_.png">
